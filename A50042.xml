@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A reply to Mr. Richard Bolton of Brazen-Nose-College in Oxford, occasion'd by his presuming to dedicate his last piece to Dr. Charles Goodall, one of the censors of the College of Physicians by Charles Leigh ...</title>
+            <author>Leigh, Charles, 1662-1701?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50042</idno>
+            <idno type="STC">Wing L979</idno>
+            <idno type="STC">ESTC R17713</idno>
+            <idno type="EEBO-CITATION">12348294</idno>
+            <idno type="OCLC">ocm 12348294</idno>
+            <idno type="VID">59914</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50042)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59914)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 215:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A reply to Mr. Richard Bolton of Brazen-Nose-College in Oxford, occasion'd by his presuming to dedicate his last piece to Dr. Charles Goodall, one of the censors of the College of Physicians by Charles Leigh ...</title>
+                  <author>Leigh, Charles, 1662-1701?</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Sprint ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Boulton, Richard, b. 1676 or 7. --  Letter to Doctor Charles Goodall.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59914:1" rendition="simple:additions"/>
+            <p>A REPLY TO Mr. <hi>Richard Bolton</hi> OF BRAZEN-NOSE-COLLEGE in OXFORD; Occaſion'd by his preſuming to Dedicate His Laſt Piece TO Dr. <hi>CHARLES GOODALL,</hi> One of the Cenſors of the <hi>College</hi> of <hi>Phyſicians.</hi>
+            </p>
+            <p>
+               <hi>By CHARLES LEIGH,</hi> Doctor of Phyſick.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Sprint,</hi> at the <hi>Bell</hi> in <hi>Little-Britain,</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:59914:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:59914:2" rendition="simple:additions"/>
+            <head>A <hi>LETTER</hi> from the Learned and Reverend Dr. <hi>Charles Goodall,</hi> one of the <hi>Cenſors</hi> of the <hi>College of Phyſicians,</hi> and Phyſician to the <hi>Charter-Houſe</hi> in <hi>London.</hi>
+            </head>
+            <head type="sub">This to his Honoured Friend, Dr. <hi>Leigh,</hi> at his Houſe in <hi>Mancheſter, Lancaſhire. London, December 6. 1698.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOUR Letter of the 3d of this Month I receiv'd the laſt Night, and do return you my Thanks for it, and own your writing to me about Mr. <hi>Bolton</hi>'s Book, as a particular Favour; he having by no means oblig'd me by his rude and unmannerly Reflections upon you; who, I am ſenſible, are not therein treated either as a Gra<g ref="char:EOLhyphen"/>duate Phyſician, a Gentleman, or a Scholar. The Language and Reflections I own to be ſuch, as no Man of good Breeding, much leſs any Cenſor of the <hi>College of Phyſicians,</hi> would paſs with an <hi>Imprimatur.</hi> I do believe that Mr. <hi>Bolton</hi> had merited the Favour of many Members of the College, by two little Books which he publiſh'd, and were licens'd by the Preſident and Cenſors, being look'd upon as Specimens of Induſtry and Ingenuity, and therefore to be encouraged: But wherein he hath exceeded the Bounds of Learning
+<pb facs="tcp:59914:3"/>
+               <pb facs="tcp:59914:4"/>
+               <pb n="3" facs="tcp:59914:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:59914:5"/>and Modeſty, he muſt anſwer for his Fol<g ref="char:EOLhyphen"/>ly.</p>
+            <p>As to his writing againſt Mr. <hi>Colbatch,</hi> I muſt own that I did encourage him thereto, he having ſo rudely treated the Univerſities, College of Phyſicians, and the moſt learned Men of our Faculty, and likewiſe publiſhed and defended ſuch an erroneous Hypotheſis, and rais'd ſuch a dangerous Superſtructure thereon, which I fear will prove fatal to ma<g ref="char:EOLhyphen"/>ny, if made uſe of by weak and unthink<g ref="char:EOLhyphen"/>ing Phyſicians. Yet notwithſtanding Mr. <hi>Col<g ref="char:EOLhyphen"/>batch</hi> hath deſerved ill of learned Men, and the Publick, for the Reaſons now given, yet I can<g ref="char:EOLhyphen"/>not commend Mr. <hi>Bolton</hi>'s treating him in the manner which he hath done; which was ſo far from my Approbation and Good-liking, that, at the ſame time I encouraged him to anſwer Mr. <hi>Colbatch</hi>'s Books, I earneſtly re<g ref="char:EOLhyphen"/>queſted him to read the learned and ingenious Mr. <hi>Boyle</hi>'s Book againſt Dr. <hi>Bentley</hi> (with Care and Obſervation) and to imitate (as much as he could) that excellent Author, in his Reply to Mr. <hi>Colbatch.</hi> But how he hath herein follow<g ref="char:EOLhyphen"/>ed my Advice, or the Original propoſed, I leave you and all learned Men to judge.</p>
+            <p>I am truly ſorry, that in the Particulars you mention, he hath not only diſoblig'd me, and many others, but highly injur'd his own Repu<g ref="char:EOLhyphen"/>tation, which I do believe, a little time will make him ſenſible of. Sir, I have herein gi<g ref="char:EOLhyphen"/>ven you a ſhort and faithful Account of this Affair, which I hope will be ſatisfactory to you:
+<pb n="5" facs="tcp:59914:5"/>And if in any thing I can father ſerve you, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pleas'd to command,</p>
+            <closer>
+               <signed>
+                  <hi>SIR, Your moſt humble Servant,</hi> Charles Goodall.</signed>
+            </closer>
+         </div>
+         <div type="reply">
+            <p>THat he may be ſatisfy'd he is not the Man he takes himſelf for, I have printed Dr. <hi>Good<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi>'s Letter to me, and given him a Reply to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s laſt Piece, ſo far as relates to my ſelf. In <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at Reply I found ſuch illiterate Arguments, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch mean and trifling Reflections, ſuch a pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound Ignorance of the Latin Tongue, I once concluded to have been ſilent, being aſſured <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Piece was a better Anſwer to it ſelf, than c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld be given from another And. But ſince ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me Perſons were pleas'd to alledge, that it w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s patroniz'd by one of the Cenſors of the <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llege of Phyſicians,</hi> I have therefore, to vindi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>te both him and my ſelf, made theſe pub<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>k.</p>
+            <p>When the moſt abſtruſe Points in Philoſophy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> reduc'd to dogmatical Aſſertions, and the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt exalted and uſeful Topicks in Phyſick <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> become the ſportive Rattles of unthink<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g Striplings; when Metaphorical Suppoſitions <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſt paſs for Anatomical Demonſtrations, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rogance and Noiſe are the Weapons of in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>cible Confutation; when Impudence and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rrility are Arguments of Proof againſt all <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ional Attacks, it's high time to tell the Youth, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> has err'd, to reject the uſe of Lenitives, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to more potent Applications. With what
+<pb n="6" facs="tcp:59914:6"/>Aſſurance does he make it evident, that th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Animal Spirits move ſlower than the Blood? He ſure never entertain'd any Notion <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Thought, had no abſtracted Speculations of i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Velocity. Their unaccountable Agility in vo<g ref="char:EOLhyphen"/>luntary Motion, evidently demonſtrates th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> contrary. In the firſt place he aſſerts, but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> where proves, the Animal Spirits to be a ſwee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> oily Mucilage. Now, by the bye, Did <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ever ſee or taſte the Animal Spirits? were they a ſweet oily Mucilage he might do both. O<g ref="char:EOLhyphen"/>thers yet with the moſt accurate Glaſſes coul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> never diſcover them. What need I had of Sp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ctacles I know not as yet, I thank God for i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> But I am ſure to make ſuch Diſcoveries as a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> there aſſerted, beſpeak him to be one of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> greateſt <hi>Virtuoſi</hi> the World ever yet has ſeen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> And I do again tell him, that did there ſuch <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Mucilage as he mentions, circulate through th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Nerves, the Nerve would either ſwell abov<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Ligature, or by the Section of a Nerv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Mucilage might be ſqueezed from it. An<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what he offers to thoſe Arguments is but a pi<g ref="char:EOLhyphen"/>tiful Evaſion, and no Solution at all: For if th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Motion of the Mucilage be ſo ſlow as he a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſerts, it is not to be imagin'd, that upon th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cutting of a Nerve, it ſhould make ſo quick an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> inſtantaneous a return through its Branches, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that it ſhould not be poſſible to diſcover i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> For by this way of arguing, he might as we<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> tell me, a Snail will make a ſwift <hi>Newmark<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Courſer, or a Man of his poor pity'd pitch o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Learning a profound Philoſopher. Dr. <hi>Liſter<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> I gueſs, will not thank him for what he has ſai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="7" facs="tcp:59914:6"/>in anſwer to the Controverſie betwixt us two; for in my inſtancing in the Kennel-pit-water at <hi>Haigh</hi> in <hi>Lancaſhire,</hi> it was not to prove an A<g ref="char:EOLhyphen"/>cid in Water, which, he ſays, no body ever deny'd, but to prove there was perfect conco<g ref="char:EOLhyphen"/>cted Vitriol in Water; which was what the Dr. deny'd. His Remarks and Quibbles about my Notions of hot Baths, are not worth anſwering: And I do again affirm, That Hypotheſis was never before laid down by any; and what ſome had formerly alledged was, That the Heat in thoſe Waters was cauſed either by Fermentati<g ref="char:EOLhyphen"/>on of Sulphureous, and other Heterogeneous Particles, or by Subterraneous Fires; both of which in the Exercitations I have fully confu<g ref="char:EOLhyphen"/>ted. Wherefore I aſſign'd a third Cauſe <hi>(viz.)</hi> a Colliſion of Sulphureous Particles. But I find he has either not the Senſe, or Sincerity, to di<g ref="char:EOLhyphen"/>ſtinguiſh betwixt Fermentation and Colliſion: And indeed, I think, both the Inſtances he has produc'd, do him no Service. The Paral<g ref="char:EOLhyphen"/>lel does not hold: unleſs he can demonſtrate, that, as the Fire heats the Water, the Water makes the Fire to burn; and I think he has a Stock of Ignorance and Impudence to at<g ref="char:EOLhyphen"/>tempt it. With what an accurate Ken, with what pungent Sophiſtry, with how admirable a turn of a Faeculent Brain did he diſcover <hi>Ingenium Acerrimum</hi> to be a <hi>ſour</hi> Wit? What could produce ſuch a ſingular Conſtruction, but the Dawnings of immature Conceptions? But now to expiate for ſo awkard a Conſtructi<g ref="char:EOLhyphen"/>on, he proceeds to a more conſpicuous Dilem<g ref="char:EOLhyphen"/>ma, falls ſoul upon Caſe and Rule, and magiſteri<g ref="char:EOLhyphen"/>ally
+<pb n="8" facs="tcp:59914:7"/>affirms, <hi>Opinioni haud naturae ſe Credidit,</hi> to be falſe <hi>Latin:</hi> This he aſſerts in a notorious Paraphraſe, bids Defiance to Grammar and Authority. The Unintelligible World, till now, miſtook the Preſident was delirous with luxuriant Thought, and drew erroneous Charts of imagin'd Shores; not <hi>Cicero, Seneca,</hi> nor <hi>Terence,</hi> with all their Train of Oratory; not the three Sons of <hi>Parnaſſus, Horace, Virgil,</hi> and <hi>Ovid,</hi> the Delight and Glory of <hi>Auguſtus</hi>'s Court, when the <hi>Roman</hi> Tongue had acquired its <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſhall be Standards to this renowned Trifler. But to ſet him ſtraight in this, I ſhall lay before him the following Authorities. In the firſt place, the Sentence he recites out of my Exercitations, is an Expreſſion in <hi>Seneca</hi>'s Epiſtles; whoſe Authority alone had been ſuf<g ref="char:EOLhyphen"/>ficient to vindicate me, had I had no other: But to ſhew him <hi>Credo</hi> frequently governs an Accuſative with a Dative Caſe, let him take notice of the following Quotations. <hi>Credere ſe Neptuno,</hi> is a Sentence in <hi>Plautus, Credere ſe Coelo praepetibus pennis.</hi> Virgil; and theſe Words, I think, are applicable to him; for I doubt not but he has a Head Chimerical enough to afford him Wings to fly with, if the Lapwing would but have Patience to ſtay till the Shell dropt off his Head. <hi>Credere ſuum animum alicui,</hi> Terence. <hi>Credere uni omnia,</hi> Cicero. <hi>Libris Arcana Credere,</hi> Horace. <hi>Veritus ſe Credere nocti,</hi> Ovid. Wherefore for ſhame, let him not ſet up for an Author, but quit the Preſs, <hi>Oxford</hi> and his Addreſſes to the College, and return to the Grammar School at <hi>Cheſter;</hi> and by that means
+<pb n="9" facs="tcp:59914:7"/>he will leave us room to think he may in time be ſomething; and perhaps he may by frequent Laſhing be qualify'd for the Univerſity. And ſince in his uſual Method of acting the Plagia<g ref="char:EOLhyphen"/>ry, he has ſtole a Receipt for me, let him take this Advice: Before he writes, let him think; afterwards conſult his Friends; and to prevent a Relapſe of his Diſtemper, then burn his Papers: He then, like a raſh unthinking Ad<g ref="char:EOLhyphen"/>venturer, may expire in Fire and Smoke, and not become the diſhonourable Refuſe of a Common-Shoar. His carping at the two Words <hi>pro me,</hi> farther confirms his Ignorance in the <hi>Latin</hi> Tongue; for as I uſe them, they are frequently uſed by <hi>Plautus</hi> and ſeveral mo<g ref="char:EOLhyphen"/>dern Authors, particularly Dr. <hi>Liſter;</hi> ſo that if he blames me, he muſt likewiſe blame the Doctor, and not ſhelter himſelf from a juſt Rebuke; becauſe I had formerly oppos'd the Doctor: And when ever I ſee an Anſwer to thoſe Arguments alledged againſt the Doctor's Hypotheſis, I ſhall freely ask his Pardon, if I be found in an Error; if not, I hope I have the Liberty of Thought. I do believe the Doctor will be aſhamed to be quoted by ſuch a Trifler. But, upon my Word, it ſhew'd him to be a Man of invincible Courage, to be ſo daring as to encounter thoſe two Words <hi>Pro me;</hi> and had he never exceeded the Pronouns and Prepoſi<g ref="char:EOLhyphen"/>tions, he had eaſed the World of a great deal of <hi>Jargon,</hi> and kept himſelf in his due Limits; and ſo the Crane and the Pigmies might have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ought about the Knots in a Bull-ruſh. Ano<g ref="char:EOLhyphen"/>ther Expreſſion of mine he carps at is <hi>In proclivi
+<pb n="10" facs="tcp:59914:8"/>eſt;</hi> where he ſays it ought to be <hi>In promptu eſt:</hi> but I ſhall produce him a parallel Sentence from <hi>Terence,</hi> and tranſlate it for him, ſince I ſee he cannot do it; and it is this, <hi>Id faciam in proclivi quod eſt, per me ſtetiſſe ut credat:</hi> Where by thoſe Words <hi>In proclivi quod eſt,</hi> is meant no more than <hi>what is eaſie</hi> or <hi>ready,</hi> which is in the Senſe I writ it.</p>
+            <p>He likewiſe quarrels with theſe Words, <hi>Sic Regero';</hi> and in that I tell him as I expreſs it, it is conſtantly taken in Philoſophy; that is, <hi>I reply thus.</hi> His Inſtance from Dr. <hi>Willis</hi> can in no wiſe reſcue him from the falſe Experiment he impoſed upon the World, ſince the Doctor never aſſerted ſuch a Paradox, and would have ſcorned to impoſe ſuch a Falſity upon us. The Matter of Fact ſtill ſtands Evidence a<g ref="char:EOLhyphen"/>gainſt him: The Doctor's Notions of <hi>Fevers</hi> are grounded upon his Principles of <hi>Fermentation,</hi> which is quite contrary to what I have aſſer<g ref="char:EOLhyphen"/>ted: For I have made it highly probable that <hi>Fevers</hi> and inflammatory Diſtempers are not cauſed by Fermentations, but by Saline Par<g ref="char:EOLhyphen"/>ticles coagulating the <hi>Serum</hi> or <hi>Lympha</hi> of the Blood; but, Poor Man, to ſerve a turn, how miſerably can he mangle that Author? and when he finds himſelf at a Pinch; then, like a moſt barbarous <hi>Tartar,</hi> defaces and ruins the ſpacious Plains he was foraging in, and ſtraight removes to a remoter Clime: Whence it is evident my Notions of <hi>Fevers</hi> and In<g ref="char:EOLhyphen"/>flammatory Diſeaſes could not, as he alledges, be borrowed from Dr. <hi>Willis:</hi> Wherefore to ſatisfie his Curioſity, I will allow him, Dr.
+<pb n="11" facs="tcp:59914:8"/>
+               <hi>Willis</hi> lived before I did; But do affirm, I have not in any one thing, which I have laid down as an <hi>Hypotheſis,</hi> borrowed from that Eminent Author. But I can aſſure him this, barring his own fictious and falſe Foundation of all his Works, if each Bird pluckt its own Feathers from him he would be expos'd as naked to the World as he came there. In anſwer to that which he alledges, that my Exercitations were printed at a private Preſs in <hi>Oxford;</hi> and that they were denied an <hi>Imprimatur</hi> from the College, is notoriouſly falſe; for in the firſt place they were printed at <hi>Litch<g ref="char:EOLhyphen"/>field</hi>'s Preſs, which is a publick one, and al<g ref="char:EOLhyphen"/>low'd of by the Univerſity. In the ſecond Place, the College was never ſollicited by me for an <hi>Imprimatur;</hi> becauſe in one of the Exercitations I had oppoſed one of the Cen<g ref="char:EOLhyphen"/>ſors, and therefore concluded it might be eſteemed ill Manners to deſire an <hi>Imprimatur</hi> from them.</p>
+            <p>His Objections againſt my Chapter of <hi>Drop<g ref="char:EOLhyphen"/>ſies,</hi> are of the ſame Stamp: For what things I have aſſign'd as the various Cauſes of thoſe Diſtempers, he brings in as the Effects: But ſince he never yet aſſigned a true Cauſe for any thing, I can readily pardon his Miſtake, and reaſonably conclude he is not able to diſtinguiſh the one from the other. And if ſo, I hope the Patient that is ſo Fool-hardy to commit himſelf to the Inſtructions of this moſt eminent Perſon, will ſettle his Concerns before, and be throughly prepared for ano<g ref="char:EOLhyphen"/>ther World, ſince he has two potent Ene<g ref="char:EOLhyphen"/>mies
+<pb n="12" facs="tcp:59914:9"/>to encounter, a dangerous Diſtemper and a moſt unmerciful Pretender. But what made him to amuſe us with his <hi>Arabick</hi> Word <hi>Acaid;</hi> ſince from what has been ob<g ref="char:EOLhyphen"/>ſerved, it is demonſtrably evident, he is as much a Stranger to the Letters in that Lan<g ref="char:EOLhyphen"/>guage as he is to their Perſons? But I pre<g ref="char:EOLhyphen"/>ſume, upon ſome Chirurgeons Arms in <hi>London</hi> he had obſerved a <hi>Greek</hi> Word or two; wherefore prevailed with ſome Friend to ſup<g ref="char:EOLhyphen"/>ply him with the like Stock of the Eaſtern Dialect, that he might be thought Maſter of the Oriental Treaſures. And ſince he has reduced the <hi>Materia Medica</hi> to an Old Wo<g ref="char:EOLhyphen"/>man with two Receipts, I hope he'll be ſo kind to curtail our <hi>Engliſh</hi> Diſpenſatory.— That he may be brought to a rational Ap<g ref="char:EOLhyphen"/>prehenſion, that he may, if 'tis poſſible, e<g ref="char:EOLhyphen"/>ſcape that Place with which he ſo fooliſhly, impudently, and frequently threatens me.</p>
+            <p>I hope he'll reflect on his own Imperfe<g ref="char:EOLhyphen"/>ctions; for I aſſure him I do vehemently ſuſpect that his frivolous, inconnected, and roving way of Writing, and one of the Sta<g ref="char:EOLhyphen"/>tues in <hi>Moor-fields,</hi> are ſo lively Emblems of a Raving Madneſs, that it threatens him with a Viſit thither. I muſt confeſs the Remarks upon his Piece concerning the Heat of the Blood, were in a Stile too light for the Gravity and Sobriety of Philoſophy; but they were only deſign'd as a Ridicule upon his wild extravagant Notions, to ſhew him the Vanity of that way of Writing, a Me<g ref="char:EOLhyphen"/>thod as I thought the moſt likely to reclaim
+<pb n="13" facs="tcp:59914:9"/>him. Where the greateſt Men for their Knowledge in Philoſophy the World ever yet has ſeen, have been ſunk in Contempla<g ref="char:EOLhyphen"/>tion in the unſearchable Works and Ope<g ref="char:EOLhyphen"/>rations of Nature, he dogmatically aſſerts, and pretends mechanically to demonſtrate, the Learn'd <hi>Charleton, Borellus,</hi> and <hi>Steno,</hi> have made large Diſcoveries in Muſcu<g ref="char:EOLhyphen"/>lar Motion, having reduced the various Fi<g ref="char:EOLhyphen"/>gures of the Muſcles to Mathematical De<g ref="char:EOLhyphen"/>monſtrations: But alas, when we conſider of the Power that gives Motion to each Fi<g ref="char:EOLhyphen"/>bre in voluntary Motion, how defective and enervate are all their elaborate Problems! But he, mighty Man, has out-ſtript all theſe Heroes in Philoſophy, he only the Cham<g ref="char:EOLhyphen"/>pion, he the Dwarf upon the Giants Shoul<g ref="char:EOLhyphen"/>ders. The Learned <hi>Willis, Crone, Mayow</hi> and <hi>Cooper,</hi> have ſupply'd us with polite and learn<g ref="char:EOLhyphen"/>ed Hypotheſes, yet faulter all in the main Buſineſs. They cannot ſee what it is in vo<g ref="char:EOLhyphen"/>luntary Motion makes that Impulſe upon the Animal Spirits, that they can perform ſuch Motions, contrary to all the Rules of Mechaniſm: Here they are ſunk in an Abyſs of Thought. Cou'd the Learn'd <hi>Bidloe?</hi> Cou'd the Accurate <hi>Cooper</hi> give us thoſe lively Fi<g ref="char:EOLhyphen"/>gures of the Muſcles, and diſſect their minu<g ref="char:EOLhyphen"/>teſt Fibres? Cou'd they in the Scarfe Skin, ſeemingly barren of Variety of Veſſels, diſ<g ref="char:EOLhyphen"/>cover that infinite Number of Capillary Veins and Arteries, by mercurial Injections? Cou'd they in the more abſtruſe <hi>Viſcera</hi> diſcover the minuteſt <hi>Glandules</hi> and <hi>Ly<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ucts?</hi> and
+<pb n="14" facs="tcp:59914:10"/>in the <hi>Cutis</hi> the Diverſity of Pores, and mi<g ref="char:EOLhyphen"/>liary Glands, and not be able to diſco<g ref="char:EOLhyphen"/>ver Mr. <hi>Bolton</hi>'s Metaphorical Glands? It's ſtrange coy Nature ſhou'd thus obſtinately deny us ſo ineſtimable a Jewel. Nay, are we arriv'd to that Perfection in <hi>Microſcopes,</hi> that we cannot only have a lively Figure of the parts of a ſolid Body, but even the Figure of the Particles in Liquids? Is it poſſible then there ſhould be ſuch Glands as Mr. <hi>Bolton</hi> contends for, <hi>(viz.)</hi> Veſſels impleted with a Juice from the Arteries and Nerves? Can we by theſe Glaſſes diſ<g ref="char:EOLhyphen"/>cover the Globules of the Blood? the Forms of Plants in their Seeds? Animalcules, and each Particle of a Liquid, and not diſcern the Veſſel that contains the Liquor? If ſo, ſure now we are grown to that pur-blind Gene<g ref="char:EOLhyphen"/>ration, that we cannot ſee the Wood for the Trees, or can diſcern each Grain in a Mole-Hill, but cannot diſcover a Mountain. Thus he may ſee his Metaphorical Glands upon which all his Works depend, are falſe and fictiti<g ref="char:EOLhyphen"/>ous: So that his Foundation being now re<g ref="char:EOLhyphen"/>mov'd, his Caſtles in the Air muſt tumble down. I can with Laughter ridicule his <hi>U<g ref="char:EOLhyphen"/>topian</hi> Diſcoveries. He may if he thinks con<g ref="char:EOLhyphen"/>venient proceed in that Method, I can eaſi<g ref="char:EOLhyphen"/>ly think him as empty as the <hi>Welch-man</hi> that purchaſed the Pompion for the Mare's Egg, and doubt not but the one will as ſoon pro<g ref="char:EOLhyphen"/>duce a Colt as he ſolve the <hi>Phaenomena</hi> in Muſcular Motion. Thus he may ſee what he has alledg'd is upon a Sandy Bottom: From
+<pb n="15" facs="tcp:59914:10" rendition="simple:additions"/>the Premiſſes we may draw quite different Corollaries. What he urges is highly irratio<g ref="char:EOLhyphen"/>nal, and only begging the Queſtion, a Me<g ref="char:EOLhyphen"/>thod he ſure knows, the pooreſt way of argu<g ref="char:EOLhyphen"/>ing. I do aſſure him (though he is pleaſed to challenge me) I do not, nor ever did envy his Succeſs.</p>
+            <p>And ſince he underſtands not the Claſſick Authors, as I have made it undeniably evident from the beſt Authorities, he does not; he may be aſſured till he qualifies himſelf better to write, I ſhall not give him or my ſelf any Trouble in this nature.</p>
+            <p>Poor Animal, his Gumms were ſwell'd with Rancour, but he wanted Teeth to bite with. I hope he'll be ſo kind to himſelf to purchaſe a Whiſtle and a Coral to break the envenom'd Tumour, tho' no one needs to fear the Bite of ſo harmleſs a Creature. But now, to convince the World what little Deference he has for Learning, and how far he has tranſ<g ref="char:EOLhyphen"/>greſs'd all the Rules of common Modeſty, let him conſult his own Letter, writ to a Friend of his at <hi>Cheſter,</hi> under whoſe Tuition he ought yet to be. In that he tells him he was little alter'd with the Air at <hi>Oxford;</hi> He expected indeed to have found it a Place of Learning, but, to his great Diſappointment, he found it, for the greateſt put, a Seat of Loggerheads; that the Exerciſe there was ſo mean and trilling, he cou'd by ſtudying one Hour in twenty four qualifie himſelf for the performance of it: That when he diſputed, he only talk'd to the Dean and Moderator, the reſt not being able
+<pb n="16" facs="tcp:59914:11"/>to diſcourſe him: That he had only the Sa<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>faction to ſee the Reſpondent ſit ſilent: and that with a Month's Study he could qualifie himſelf for any Degree there. He farther pro<g ref="char:EOLhyphen"/>ceeds upon his being Candidate for a Scholar<g ref="char:EOLhyphen"/>ſhip; That what Oppoſition he found, was only from a Blockhead of three Years ſtand<g ref="char:EOLhyphen"/>ing. What Pity it was to nip him in his early Bloom, to check him in his Tour, to illegiti<g ref="char:EOLhyphen"/>timate this Eaglet, who preſumes he can gaze on a Meridian Sun, whilſt his blear'd Eyes and dazl'd Organs obviouſly beſpeak his Original ſpurious.</p>
+            <p>Here indeed is unparallel'd Arrogance, and unpardonable Reflections upon one of the greateſt Bodies of Learning in the Univerſe; ſo that his thoughtleſs Raillery againſt me is the leſs to be regarded. Nor had I now taken notice of his empty Abuſes, had he not ſhel<g ref="char:EOLhyphen"/>ter'd himſelf under the Patronage of ſo emi<g ref="char:EOLhyphen"/>nent a Perſon: And let him be aſſured, ſhall not hereafter, without greater Proofs of Mo<g ref="char:EOLhyphen"/>deſty and Learning, trouble my ſelf with ſuch an Adverſary. I cou'd enumerate more egregious Follies in the Piece of the ſame Stamp; but what have been obſerved are ſufficient. I ſhall not therefore trouble the World with any more of his <hi>undigeſted Ri<g ref="char:EOLhyphen"/>baldry.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
